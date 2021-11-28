@@ -6,5 +6,5 @@
 - BEM
 
 ## DEMO LINK
-- [Click to see it](https://DudarDaryna.github.io/Eco_cosmetics/)
+- [Click to see it](https://DudarDaryna.github.io/layout_miami/)
 
